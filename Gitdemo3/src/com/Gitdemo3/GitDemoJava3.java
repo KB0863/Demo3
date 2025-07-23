@@ -7,6 +7,7 @@ public class GitDemoJava3 {
 		// TODO Auto-generated method stub
 System.out.println("kshitij1 Branch 1st merge request");
 System.out.println("kshitij2 Branch 2nd merge request");
+System.out.println("kshitij2 Branch 3rd merge request");
 	}
 
 }
